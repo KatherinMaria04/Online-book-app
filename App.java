@@ -1,4 +1,4 @@
-package com.revature.Book1;
+package com.revature.Array;
 
 /**
  * Hello world!
